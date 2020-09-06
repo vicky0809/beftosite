@@ -1,2 +1,1 @@
-# beftosite
-Befto website
+# befto
